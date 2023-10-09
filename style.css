@@ -63,7 +63,7 @@ height: 124px;
 }
 #home::before{
     content: "";
-    background: url(/web-design-2906159_1280.jpg) no-repeat;
+    background: url(web-design-2906159_1280.jpg) no-repeat;
     position: absolute;
     width: 100%;
     height: 50%;
